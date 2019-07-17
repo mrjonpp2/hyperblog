@@ -4,3 +4,5 @@ y es mi primera vez usando git
 Lo lograremos dominar
 
 Hoy hablaremos de su vida
+
+Y tambien de su maestria
