@@ -2,3 +2,5 @@ Este es un archivo de teXTo
 y es mi primera vez usando git
 
 Lo lograremos dominar
+
+Hoy hablaremos de su vida
